@@ -21,6 +21,9 @@ devDependencies:
   nuxt-purgecss:
     specifier: ^2.0.0
     version: 2.0.0(postcss@8.4.23)
+  postcss:
+    specifier: ^8.0.0
+    version: 8.4.23
   sass:
     specifier: ^1.62.1
     version: 1.62.1
